@@ -1,4 +1,4 @@
-The first week homework. 
+The first week homework (Sangwook Kim). 
 
 I try to build the website for promoting Lego's newly launched product "NASA Space Shuttle Discovery"
 
