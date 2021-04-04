@@ -1,6 +1,6 @@
 The first week homework. 
 
-I try to build the promotion website of Lego's newly launched product "NASA Space Shuttle Discovery"
+I try to build the website to promote Lego's newly launched product "NASA Space Shuttle Discovery"
 
 The website if offering three pages 1) Home page (index) 2) Deliveries and returns 3) Other Lego Space Series
 
